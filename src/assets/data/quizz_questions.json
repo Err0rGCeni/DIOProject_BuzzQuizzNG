@@ -1,0 +1,135 @@
+{
+    "title": "Descubra se você seria um super-herói ou um super-vilão!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Qual superpoder você escolheria?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Telecinese",
+                    "alignment": "A",
+                    "description": "Controlar objetos com a mente"
+                },
+                {
+                    "id": 2,
+                    "name": "Invisibilidade",
+                    "alignment": "B",
+                    "description": "Tornar-se invisível a vontade"
+                },
+                {
+                    "id": 3,
+                    "name": "Manipulação temporal",
+                    "alignment": "A",
+                    "description": "Controlar o tempo"
+                },
+                {
+                    "id": 4,
+                    "name": "Cura instantânea",
+                    "alignment": "B",
+                    "description": "Curar feridas instantaneamente"
+                },
+                {
+                    "id": 5,
+                    "name": "Transformação física",
+                    "alignment": "A",
+                    "description": "Mudar a aparência física"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Quem você salvaria primeiro?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Família",
+                    "alignment": "A",
+                    "description": "Prioriza a família"
+                },
+                {
+                    "id": 2,
+                    "name": "Desconhecidos",
+                    "alignment": "B",
+                    "description": "Ajuda quem mais precisa"
+                },
+                {
+                    "id": 3,
+                    "name": "Todos",
+                    "alignment": "A",
+                    "description": "Tenta salvar a todos"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Qual a sua maior preocupação ao enfrentar outro super-ser?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Colateral",
+                    "alignment": "B",
+                    "description": "Evitar danos colaterais"
+                },
+                {
+                    "id": 2,
+                    "name": "Vitória",
+                    "alignment": "A",
+                    "description": "Focar na derrota do inimigo"
+                },
+                {
+                    "id": 3,
+                    "name": "Inocentes",
+                    "alignment": "B",
+                    "description": "Proteger os inocentes"
+                },
+                {
+                    "id": 4,
+                    "name": "Preservação",
+                    "alignment": "A",
+                    "description": "Preservar sua integridade"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Qual o seu maior objetivo?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Poder",
+                    "alignment": "A",
+                    "description": "Busca por mais poder"
+                },
+                {
+                    "id": 2,
+                    "name": "Justiça",
+                    "alignment": "B",
+                    "description": "Lutar pela justiça"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Qual seria seu apelido como super-ser?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Caos",
+                    "alignment": "A",
+                    "description": "Cria situações caóticas"
+                },
+                {
+                    "id": 2,
+                    "name": "Guardião",
+                    "alignment": "B",
+                    "description": "Protetor da cidade"
+                }
+            ]
+        }
+    ],
+    "results": {
+        "A": "Você provavelmente seria um super-vilão!",
+        "B": "Você provavelmente seria um super-herói!"
+    }
+}
